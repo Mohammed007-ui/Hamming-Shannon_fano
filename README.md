@@ -58,6 +58,8 @@ print(f"Variance is : {var}")
 ![Screenshot 2025-03-25 191943](https://github.com/user-attachments/assets/efa46457-a3cc-4c5a-b3c2-4795c1ed616c)
 
 # CALCULATIONS:
+![calculation](https://github.com/user-attachments/assets/4e132d78-c5ff-47b3-a6bc-57693e09ee10)
+![calculations2](https://github.com/user-attachments/assets/dfd29c37-4c4d-437a-a134-862f7fe71f17)
 
 ## RESULT: 
 For the given probabilities 
